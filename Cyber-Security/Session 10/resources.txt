@@ -1,0 +1,4 @@
+2. https://tuxcare.com/blog/cve-and-cvss/
+3. https://attack.mitre.org/
+4. https://tryhackme.com/room/overlayfs
+5. https://tryhackme.com/room/basicpentestingjt
